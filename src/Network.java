@@ -15,7 +15,6 @@ public class Network
     // Randomizer to initialize connections weights
     Random rand = new Random();
     
-    ArrayList<String> data;
     
     List<int[][]> imgData;
     int[][] labels;
@@ -23,7 +22,7 @@ public class Network
     int batches = 60000;
     int currentBatch = 0;
     
-    
+    // these variables are used to calulate how many correct predictions the model does for the last 5000 images
     int res;
     int maxOut;
     int correct = 0;
