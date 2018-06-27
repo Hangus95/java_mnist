@@ -1,6 +1,8 @@
 # Java MNIST database
 This example was created to show how a neural network can be created in Java using only standard libraries and fully contained.
 
+![alt text](https://upload.wikimedia.org/wikipedia/commons/2/27/MnistExamples.png)
+
 This code contains a fully self contained implementation of a neural network that is then tested on the MNIST-database.
 When I first learnt about backpropagation I tried to find an implementation of the algorithm that didnt use any libraries that wasn't standard in order to understand it on a fundamental level.
 
