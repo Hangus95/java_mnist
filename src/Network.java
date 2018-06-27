@@ -77,6 +77,7 @@ public class Network
             
     }
     
+    // Set-up for all the connections between the different layers
     private void createConnections(){
         for(inputNeuron in : inputs){
             for(hiddenNeuron hn : hidden){
