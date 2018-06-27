@@ -1,4 +1,11 @@
 # Java MNIST database
-An implementation of a neural network in Java.
+An self contained implementation of a neural network in Java.
+
+This example 
 
 
+
+
+Backpropagation
+
+ToDo
