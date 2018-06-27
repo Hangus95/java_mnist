@@ -35,7 +35,6 @@ public class Network
         
         createNetwork( noInputs,  noHidden,  noOutputs);
         createConnections();
-        //data = new ArrayList<String>();
         prepData();
         
         
