@@ -1,5 +1,5 @@
 # Java MNIST database
-This example was created to show how a neural network can be created in Java using only standard libraries and fully contained and using the created model to predict handwritten numbers.
+This example was created to show how a neural network can be created in Java using only standard libraries and later using the created model to predict handwritten numbers.
 
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/2/27/MnistExamples.png)
 
