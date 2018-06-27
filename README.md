@@ -23,6 +23,7 @@ Some images are rather difficult to predict, even for a human.
 ![alt text](http://neuralnetworksanddeeplearning.com/images/mnist_really_bad_images.png)
 ## ToDo
 Implement the testing in a more proper fashion using the seperate testing file.
+Clean the code from difficult to understand variables.
 
 Finally, I would like to thank jeffgriffith for providing the MNIST-reader code. 
 
