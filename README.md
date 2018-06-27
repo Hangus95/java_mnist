@@ -24,7 +24,9 @@ Some images are rather difficult to predict, even for a human.
 ## ToDo
 Implement the testing in a more proper fashion using the seperate testing file.
 
+Finally, I would like to thank jeffgriffith for providing the MNIST-reader code. 
 
+code for the reader can be found here: https://github.com/jeffgriffith/mnist-reader
 
 
 
