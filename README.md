@@ -18,8 +18,14 @@ This will create a neural network with 784 input neurons, 40 hidden neurons and 
 
 Each input neuron represents one pixel of the 28x28 image that is included in repository while each output neron represents the predicted number between 0 through 9. 
 
-After the code has itirated trhough 55k images the ongoing results will be printed in the terminal. 
-If the model predicts wrong, a newline will be printed in order to find the error easier. 
+After the code has iterated trhough 55k images the ongoing results will be printed in the terminal. 
+"Acc" is the target prediction and "Output" is what the model predicted.
+If the model predicts wrong, a newline will be printed in order to find the error easier, as can be seen in the image below.
+![alt text](https://i.imgur.com/9gL4QOH.png)
+
+After all images has been tested the model should have a correct prediction rate of 94%+ for the last 5000 images
+![alt text](https://i.imgur.com/zGtYk1sr.png)
+
 
 Some images are rather difficult to predict, even for a human. 
 ![alt text](http://neuralnetworksanddeeplearning.com/images/mnist_really_bad_images.png)
