@@ -19,6 +19,8 @@ Each input neuron represents one pixel of the 28x28 image that is included in re
 After the code has itirated trhough 55k images the ongoing results will be printed in the terminal. 
 If the model predicts wrong, a newline will be printed in order to find the error easier. 
 
+Some images are rather difficult to predict, even for a human. 
+![alt text](http://neuralnetworksanddeeplearning.com/images/mnist_really_bad_images.png)
 ## ToDo
 Implement the testing in a more proper fashion using the seperate testing file.
 
